@@ -1,0 +1,543 @@
+Genus_ID,Genus_Name,Family_ID
+1,kombio-arapesh,1
+2,south omotic,2
+3,upper sepik,3
+4,semitic,2
+5,kwa,4
+6,south guaicuruan,5
+7,northwest caucasian,6
+8,muskogean,7
+9,central pama-nyungan,8
+10,lowland east cushitic,2
+11,north-central bird's head,9
+12,greater alor,10
+13,algonquian,11
+14,malayo-sumbawan,12
+15,inland northern arawakan,13
+16,tupi-guaraní,14
+17,mayan,15
+18,nilotic,16
+19,palaihnihan,17
+20,burmese-lolo,18
+21,keresan,19
+22,jivaroan,20
+23,sign languages,21
+24,andoke,22
+25,oceanic,12
+26,aleut,23
+27,germanic,24
+28,eastern highlands,25
+29,cross river,4
+30,greater central philippine,12
+31,bantoid,4
+32,lezgic,26
+33,kuki-chin,18
+34,creoles and pidgins,21
+35,northern pama-nyungan,8
+36,southern cushitic,2
+37,athapaskan,27
+38,awju-dumut,25
+39,aikaná,28
+40,ainu,29
+41,kru,4
+42,kresh,30
+43,great andamanese,31
+44,caddoan,32
+45,cariban,33
+46,sepik hill,3
+47,albanian,24
+48,huarpe,34
+49,central malayo-polynesian,12
+50,alsea,35
+51,northern chukotko-kamchatkan,36
+52,alawa,37
+53,northwest sumatra-barrier islands,12
+54,middle sepik,3
+55,panoan,38
+56,bodic,18
+57,madang,25
+58,east formosan,12
+59,harakmbet,39
+60,left may,40
+61,border,41
+62,kainji,4
+63,south halmahera - west new guinea,12
+64,yanesha',13
+65,amuzgoan,42
+66,tacanan,43
+67,west chadic,2
+68,anêm,44
+69,senagi,45
+70,khoe-kwadi,46
+71,anindilyakwa,47
+72,nungish,18
+73,angan,25
+74,avar-andic-tsezic,26
+75,ge-kaingang,48
+76,tani,18
+77,purus,13
+78,caribbean arawakan,13
+79,zaparoan,49
+80,south bird's head,50
+81,armenian,24
+82,asmat-kamoro,25
+83,turkic,51
+84,indic,24
+85,romance,24
+86,atayalic,12
+87,south sulawesi,12
+88,mahakiranti,18
+89,atakapa,52
+90,kunza,53
+91,eskimo,23
+92,wapei-palei,1
+93,moru-ma'di,30
+94,awin-pare,54
+95,central cushitic,2
+96,barbacoan,55
+97,ram,3
+98,aymaran,56
+99,zamucoan,57
+100,koiarian,25
+101,anson bay,58
+102,bongo-bagirmi,30
+103,bahuanic,13
+104,bai,18
+105,sama-bajaw,12
+106,ubangi,4
+107,western mande,59
+108,biu-mandara,2
+109,mongolic,51
+110,bolivia-parana,13
+111,gunwinygic,47
+112,southeastern pama-nyungan,8
+113,berber,2
+114,bella coola,60
+115,southern dravidian,61
+116,western pama-nyungan,8
+117,west bomberai,62
+118,north borneo,12
+119,beja,2
+120,beothuk,63
+121,berta,64
+122,northern atlantic,4
+123,celebic,12
+124,guaymiic,65
+125,bangime,66
+126,western arunachal,18
+127,mel,4
+128,barito,12
+129,munda,67
+130,east chadic,2
+131,bilua,68
+132,binanderean,25
+133,kwomtari,69
+134,bilic,12
+135,platoid,4
+136,eastern mande,59
+137,land dayak,12
+138,iranian,24
+139,northern luzon,12
+140,surmic,16
+141,slavic,24
+142,core siouan,70
+143,gur,4
+144,finisterre-huon,25
+145,arauan,71
+146,bunuban,72
+147,baining,73
+148,edoid,4
+149,tucanoan,74
+150,sangiric,12
+151,alto-orinoco,13
+152,marind proper,50
+153,bodo-garo,18
+154,boran,75
+155,bahnaric,67
+156,basque,76
+157,talamanca,65
+158,nyulnyulan,77
+159,celtic,24
+160,northern dravidian,61
+161,tor,78
+162,warapu,79
+163,bororoan,80
+164,katuic,67
+165,betoi,81
+166,burarran,82
+167,east bougainville,83
+168,burushaski,84
+169,east geelvink bay,85
+170,cacua-nukak,86
+171,california uto-aztecan,87
+172,camsá,88
+173,candoshi,89
+174,choco,90
+175,pre-andine arawakan,13
+176,chumash,91
+177,popolocan,42
+178,chinantecan,42
+179,yuman,17
+180,chamorro,12
+181,lower sepik,92
+182,nakh,26
+183,southern iroquoian,93
+184,northern naga,18
+185,chimariko,17
+186,tsamosan,60
+187,tequistlatecan,94
+188,zapotecan,42
+189,matacoan,95
+190,cahuapanan,96
+191,chinese,18
+192,chichimec,42
+193,chinookan,97
+194,central salish,60
+195,cholon,98
+196,chimila,65
+197,comecrudan,99
+198,numic,87
+199,chimakuan,100
+200,katukinan,101
+201,coahuiltecan,102
+202,interior salish,60
+203,cofán,103
+204,arhuacic,65
+205,coosan,35
+206,egyptian-coptic,2
+207,corachol,87
+208,costanoan,97
+209,uru-chipaya,104
+210,chiquito,105
+211,mixtecan,42
+212,chitimacha,106
+213,catawban,70
+214,timote-cuica,107
+215,guahiban,108
+216,cuitlatec,109
+217,chimbu,25
+218,northern iroquoian,93
+219,cayuvava,110
+220,teberan,111
+221,dagan,112
+222,dahalo,2
+223,nadahup,113
+224,adamawa,4
+225,daju,16
+226,dogon,114
+227,ijoid,115
+228,dhimalic,18
+229,digaroan,18
+230,dizoid,2
+231,djingili,116
+232,dani,25
+233,kam-tai,117
+234,lakes plain,118
+235,lak-dargwa,26
+236,western skou,79
+237,duna,25
+238,nupoid,4
+239,bosavi,119
+240,mek,25
+241,wissel lakes-kemandoga,25
+242,morwap,120
+243,wagaydy,121
+244,engan,25
+245,samoyedic,122
+246,enggano,12
+247,tacame,123
+248,esselen,124
+249,finnic,122
+250,cahita,87
+251,tungusic,51
+252,eyak,27
+253,fasu,25
+254,kutubuan,25
+255,fas,69
+256,yatê,125
+257,fur,126
+258,gaagudju,127
+259,north omotic,2
+260,monde,14
+261,gbaya-manza-ngbaka,4
+262,greek,24
+263,central dravidian,61
+264,kartvelian,128
+265,tsimshianic,97
+266,puelche,129
+267,kadai,117
+268,north halmaheran,9
+269,gumuz,130
+270,mascoian,131
+271,worrorran,132
+272,gogodala,133
+273,south-central dravidian,61
+274,tarahumaran,87
+275,garrwan,134
+276,guató,135
+277,rgyalrong,18
+278,hadza,136
+279,haida,137
+280,piawi,138
+281,hatam,9
+282,northern wakashan,139
+283,hmong-mien,140
+284,huitoto,75
+285,hopi,87
+286,=|hoan,141
+287,ugric,122
+288,huavean,142
+289,idomoid,4
+290,quechuan,143
+291,igboid,4
+292,eastern jebel,16
+293,kuliak,16
+294,iranxe,144
+295,krisa,79
+296,defoid,4
+297,kwerba,145
+298,southern chukotko-kamchatkan,36
+299,itonama,146
+300,batanic,12
+301,iwaidjan,147
+302,aslian,67
+303,jaminjungan,116
+304,javanese,12
+305,jabutí,148
+306,kiowa-tanoan,149
+307,jingpho,18
+308,talodi,150
+309,japanese,151
+310,south andamanese,152
+311,ju-kung,141
+312,karajá,48
+313,ramarama,14
+314,kadugli,153
+315,tate,154
+316,lampungic,12
+317,lower ramu,92
+318,kaure,155
+319,tangkic,156
+320,botin,92
+321,western saharan,157
+322,karen,18
+323,songhay,158
+324,kadiwéu,5
+325,yeniseian,159
+326,khmer,67
+327,khasian,67
+328,mikarew,92
+329,jarrakan,160
+330,kolopom,161
+331,kiwaian,162
+332,karankawa,163
+333,klamath-modoc,97
+334,kolana-tanglapui,10
+335,kalapuyan,164
+336,goilalan,25
+337,nimboran,165
+338,palaung-khmuic,67
+339,eastern daly,166
+340,marienberg,1
+341,arikem,14
+342,morehead and upper maro rivers,167
+343,kunama,168
+344,kapixana,169
+345,west bougainville,170
+346,maiduan,97
+347,koman,171
+348,permic,122
+349,korean,172
+350,central luzon,12
+351,botocudo,48
+352,kariri,173
+353,karok,174
+354,pomoan,17
+355,pearic,67
+356,katla-tima,150
+357,nuristani,24
+358,kuna,65
+359,kuot,175
+360,kusunda,176
+361,kutenai,177
+362,kwaza,178
+363,southern wakashan,139
+364,karkar-yuri,179
+365,laal,180
+366,lafofa,150
+367,masa,2
+368,laragia,181
+369,baltic,24
+370,lavukaleve,68
+371,lendu,30
+372,leko,182
+373,lepcha,18
+374,mangbutu-efe,30
+375,hlai,117
+376,limilngan,181
+377,lule,183
+378,maban,184
+379,mari,122
+380,araucanian,185
+381,maxakalí,48
+382,otomian,42
+383,monumbo,186
+384,mangbetu,30
+385,chimúan,187
+386,mixe-zoque,188
+387,miwok,97
+388,east bird's head,189
+389,tupari,14
+390,western fly,190
+391,mailuan,25
+392,tama sepik,3
+393,nubian,16
+394,taman,16
+395,misumalpan,191
+396,makasae-fataluku-oirata,10
+397,bulaka river,192
+398,máku,193
+399,northern daly,194
+400,molala,97
+401,mordvin,122
+402,mombum,195
+403,monic,67
+404,mosetenan,196
+405,movima,197
+406,murrinh-patha,198
+407,ok,25
+408,kebar,9
+409,momuna,25
+410,mara,37
+411,bringen,121
+412,moraori,199
+413,heiban,150
+414,mairasi-tanahmerah,25
+415,chibcha-duit,65
+416,motilon,65
+417,viet-muong,67
+418,munduruku,14
+419,mangarrayi,37
+420,yale,200
+421,nahali,201
+422,yellow river,3
+423,nara,16
+424,natchez,202
+425,naxi,18
+426,nicobarese,67
+427,ndjébbana,82
+428,tepiman,87
+429,sahaptian,97
+430,ngankikurungkurr,198
+431,ngalakan,47
+432,ngandi,47
+433,aztecan,87
+434,nivkh,203
+435,nakkara,82
+436,nambikuaran,204
+437,east strickland,205
+438,nunggubuyu,47
+439,nyimang,16
+440,matlatzincan,42
+441,oksapmin,206
+442,west wapei,1
+443,rashad,150
+444,eleman proper,154
+445,orya,78
+446,páezan,207
+447,paiwan,12
+448,palauan,12
+449,pamean,42
+450,pawaian,111
+451,paya,65
+452,piaroa,208
+453,eastern arawakan,13
+454,serra hills,79
+455,central arawakan,13
+456,mura,209
+457,wintuan,97
+458,puinave,210
+459,qiangic,18
+460,puquina,211
+461,tarascan,212
+462,alacalufan,213
+463,rama,65
+464,annaberg,92
+465,rejang,12
+466,rikbaktsa,48
+467,raji-raute,18
+468,rembarnga,47
+469,rukai,12
+470,turama-kikorian,214
+471,salinan,215
+472,sáliba,208
+473,saami,122
+474,sandawe,216
+475,chon proper,129
+476,seri,17
+477,shabo,217
+478,yanomam,218
+479,shasta,17
+480,highland east cushitic,2
+481,siuslawan,35
+482,sulung,219
+483,shompen,220
+484,sentani,221
+485,suki,133
+486,sulka,222
+487,savosavo,68
+488,gapun,223
+489,totonacan,224
+490,west bird's head,9
+491,western plains austronesian,12
+492,ticuna,225
+493,tillamook,60
+494,tiwian,226
+495,takelma,227
+496,tlingit,27
+497,taulil,73
+498,subtiaba-tlapanec,42
+499,timucua,228
+500,kayagar,229
+501,temein,16
+502,tunebo,65
+503,minahasan,12
+504,tol,230
+505,tonkawa,231
+506,trumai,232
+507,tsou,12
+508,taushiro,233
+509,tubar,87
+510,tunica,234
+511,urim,1
+512,urarina,235
+513,wagiman,236
+514,wambayan,116
+515,waorani,237
+516,wappo,238
+517,chapacura-wanham,239
+518,washo,240
+519,yokuts,97
+520,wiyot,11
+521,wapishanan,13
+522,warao,241
+523,yangmanic,242
+524,warndarang,37
+525,warayic,47
+526,tu,243
+527,peba-yaguan,244
+528,yámana,245
+529,yana,17
+530,yapese,12
+531,yareban,246
+532,yawa,247
+533,yele,248
+534,yukian,238
+535,yukaghir,249
+536,yuracare,250
+537,yurimangí,251
+538,yaruro,252
+539,yuchi,253
+540,yurok,11
+541,eastern saharan,157
+542,zuni,254
