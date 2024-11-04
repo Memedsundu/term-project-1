@@ -28,7 +28,30 @@ This project aims to analyze patterns of language endangerment across different 
 
 ## Project Structure
 
-Term1/ ├── data/ │ ├── Families.csv │ ├── Genera.csv │ ├── Languages.csv ├── sql_scripts/ │ ├── create_database.sql │ ├── create_tables.sql │ ├── import_data.sql │ ├── create_etl_procedures.sql │ ├── create_triggers.sql │ ├── create_views.sql │ ├── analysis_queries.sql │ └── create_materialized_views.sql ├── python_scripts/ │ ├── data_cleaning.py │ └── data_visualization.py ├── docs/ │ └── README.md ├── results/ │ ├── endangerment_rates_per_family_genus.csv │ ├── language_endangerment_map.html │ └── analysis_report.txt └── .git/
+Term1/
+├── data/
+│   ├── Families.csv
+│   ├── Genera.csv
+│   ├── Languages.csv
+├── sql_scripts/
+│   ├── create_database.sql
+│   ├── create_tables.sql
+│   ├── import_data.sql
+│   ├── create_etl_procedures.sql
+│   ├── create_triggers.sql
+│   ├── create_views.sql
+│   ├── analysis_queries.sql
+│   └── create_materialized_views.sql
+├── python_scripts/
+│   ├── data_cleaning.py
+│   └── data_visualization.py
+├── docs/
+│   └── README.md
+├── results/
+│   ├── endangerment_rates_per_family_genus.csv
+│   ├── language_endangerment_map.html
+└── .git/
+
 
 
 ## Prerequisites
