@@ -28,6 +28,7 @@ This project aims to analyze patterns of language endangerment across different 
 
 ## Project Structure
 
+```
 Term1/
 ├── data/
 │   ├── Families.csv
@@ -51,6 +52,9 @@ Term1/
 │   ├── endangerment_rates_per_family_genus.csv
 │   ├── language_endangerment_map.html
 └── .git/
+```
+
+
 
 
 
