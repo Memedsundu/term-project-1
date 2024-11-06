@@ -32,4 +32,5 @@ FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
-(Language_ID, Language_Name, ISO_Code, Family_ID, Genus_ID, Status, Macroarea, Latitude, Longitude, Countrycodes);
+(Language_ID, Language_Name, ISO_Code, Family_ID, Genus_ID, Status, Macroarea, Latitude, Longitude, Countrycodes)
+SET Countrycodes = SUBSTRING(@Countrycodes, 1, 100);
