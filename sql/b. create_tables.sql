@@ -32,7 +32,7 @@ CREATE TABLE Languages (
   Macroarea VARCHAR(50),
   Latitude DECIMAL(9,6),
   Longitude DECIMAL(9,6),
-  Countrycodes VARCHAR(50),
+  Countrycodes VARCHAR(250),
   FOREIGN KEY (Family_ID) REFERENCES Families(Family_ID)
     ON DELETE SET NULL ON UPDATE CASCADE,
   FOREIGN KEY (Genus_ID) REFERENCES Genera(Genus_ID)
